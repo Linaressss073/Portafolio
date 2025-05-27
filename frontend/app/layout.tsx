@@ -20,7 +20,7 @@ export default function RootLayout({
       <body
         className={`
           ${outfit.className} 
-          bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 
+          bg-gradient-to-br from-blue-50 via-indigo-300 to-purple-50 
           dark:from-gray-900 dark:via-gray-800 dark:to-indigo-900 
           transition-all duration-700 ease-in-out
           text-black dark:text-white min-h-screen

@@ -35,7 +35,7 @@ export default function Home() {
                                      transition-all duration-500 ease-in-out
                                      hover:text-blue-600 dark:hover:text-blue-200
                                      hover:scale-105">
-                            Alejandro Rojas
+                            Deivy Alejandro Rojas Linares
                         </h2>
                         
                         <div className="mt-6 p-4 sm:p-6 bg-white/60 dark:bg-gray-800/60 rounded-xl 
