@@ -6,7 +6,7 @@ import Navbar from "@/components/app/Navbar";
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portafolio",
+  title: "Portafolio - Alejandro Rojas",
   description: "Portafolio personal de Alejandro Rojas",
 };
 
